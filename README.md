@@ -55,19 +55,28 @@ CampusTrack is a web-based Lost and Found Portal developed to help students and 
 ## Project Screenshots / Output
 
 ### Home Page
-(Add screenshot here)
+![Home Page](Screenshots/home%20page.jpg)
 
 ### Login Page
-(Add screenshot here)
+![Login Page](Screenshots/login.jpg)
 
-### Dashboard
-(Add screenshot here)
+### Register Page
+![Register Page](Screenshots/register.jpg)
 
-### Lost Item Reporting Page
-(Add screenshot here)
+### User Dashboard
+![User Dashboard](Screenshots/user%20dashboard.jpg)
 
-### Found Item Reporting Page
-(Add screenshot here)
+### Item Reporting Page
+![Report Item](Screenshots/report%20item.png)
+
+### Ai matching
+![AI Matching](Screenshots/ai%20matching.png)
+
+### Messages Page
+![Messages](Screenshots/message.png)
+
+### Admin Dashboard
+![Admin Dashboard](Screenshots/admin%20dashboard.png)
 
 ### Admin Dashboard
 (Add screenshot here)
