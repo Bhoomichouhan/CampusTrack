@@ -78,8 +78,6 @@ CampusTrack is a web-based Lost and Found Portal developed to help students and 
 ### Admin Dashboard
 ![Admin Dashboard](Screenshots/admin%20dashboard.png)
 
-### Admin Dashboard
-(Add screenshot here)
 ## Future Enhancements
 - Email notifications
 - Mobile application support
